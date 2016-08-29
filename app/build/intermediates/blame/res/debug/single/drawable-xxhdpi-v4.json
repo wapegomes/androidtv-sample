@@ -132,10 +132,6 @@
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/digital_day.png",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/drawable-xxhdpi/digital_day.png"
-    },
-    {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },

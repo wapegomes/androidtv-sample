@@ -1,8 +1,8 @@
 # Android TV Leanback Support Library sample - Videos by Google
 
-[![Join the chat at https://gitter.im/googlesamples/androidtv-Leanback](https://badges.gitter.im/googlesamples/androidtv-Leanback.svg)](https://gitter.im/googlesamples/androidtv-Leanback?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-This sample is a Videos By Google app, designed to run on an Android TV device (such as the Nexus Player), which demonstrates how to use the Leanback Support library which enables you to easily develop beautiful Android TV apps with a user-friendly UI that complies with the UX guidelines of Android TV.
+This sample is a Videos By web, designed to run on an Android TV device, 
+which demonstrates how to use the Leanback Support library which enables you to easily 
+develop beautiful Android TV apps with a user-friendly UI that complies with the UX guidelines of Android TV.
 
 ## Android N Preview / Picture-in-picture
 
@@ -26,33 +26,10 @@ If you use Android Studio as recommended, the following dependencies will **auto
 - Android SDK v17 leanback support library
 - Android SDK v7 recyclerview library
 
-## Getting Started
+## More Details
 
-- Clone this repo:
+https://github.com/googlesamples/androidtv-Leanback
 
-```sh
-git clone https://github.com/googlesamples/androidtv-Leanback.git
-```
-
-- Open the project in [Android Studio][studio].
-- Compile and deploy to your Android TV device (such as a Nexus Player).
-
-Need more information about getting started with Android TV? Check the [official docs][getting-started].
-
-## Screenshots
-
-[![Screenshot](screenshots/atv-leanback-all.png)](https://raw.githubusercontent.com/googlesamples/androidtv-Leanback/master/screenshots/atv-leanback-all.png)
-
-## Support
-
-If you need additional help, our community might be able to help.
-
-- Android TV Google+ Community: [https://g.co/androidtvdev](https://g.co/androidtvdev)
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android-tv
-
-## Contributing
-
-We love contributions! :smile: Please follow the steps in the [CONTRIBUTING guide][contributing] to get started. If you found a bug, please file it [here][bugs].
 
 ## License
 
