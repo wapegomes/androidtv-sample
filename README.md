@@ -1,4 +1,4 @@
-# Android TV Leanback Support Library sample - Videos by Google
+# Android TV Sample - Videos by web
 
 This sample is a Videos By web, designed to run on an Android TV device, 
 which demonstrates how to use the Leanback Support library which enables you to easily 
