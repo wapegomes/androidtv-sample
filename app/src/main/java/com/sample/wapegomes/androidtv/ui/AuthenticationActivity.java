@@ -26,7 +26,6 @@ import android.support.v17.leanback.widget.GuidedAction;
 import android.text.InputType;
 import android.widget.Toast;
 
-
 import com.sample.wapegomes.androidtv.R;
 
 import java.util.List;

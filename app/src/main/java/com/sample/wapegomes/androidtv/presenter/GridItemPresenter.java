@@ -24,7 +24,6 @@ import android.view.Gravity;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-
 import com.sample.wapegomes.androidtv.R;
 import com.sample.wapegomes.androidtv.ui.MainFragment;
 

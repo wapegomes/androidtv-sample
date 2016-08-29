@@ -27,7 +27,6 @@ import android.support.v17.leanback.widget.GuidanceStylist;
 import android.support.v17.leanback.widget.GuidanceStylist.Guidance;
 import android.support.v17.leanback.widget.GuidedAction;
 
-
 import com.sample.wapegomes.androidtv.R;
 
 import java.util.List;
