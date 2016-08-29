@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wgomes/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_090e540764b75f8b1064941ba768c1951dd01aae.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_585b112736434232a8865380a79fde234041b118.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.6/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3c046dc3c0911d142627192884ee771d9a6f5f34">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r1.5.6_a1ef8de7e959bf547455289f8a849bb976601ad6.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_5b3e9eb71d6e85800b7bea23420eb4ddbcae7fbb.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9a7ba05f90b4153e812d1aed2b9f2e4d9208eb01">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-24.1.1_a7742f18bea09e9ae3e3d6ea24c8a2a997085b1b.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_fd3f0539f42c2d4cbc3a30408041100a9b6ba206.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_e2c7a67231426a156dc3a208e1b239b885eab8fa.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-leanback-v17/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc69dacb11a497c9b5d37dfc8932c82f25c12a80">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-preference-leanback-v17-24.1.1_cf0f80350d2469e36c67f145ddc8449f72c3d6cc.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_90d1e0530328d45df877dd80c4620f387cc4eee4.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/recommendation/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="87f2a52c93c153f070c077579f20e832973713e3">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-recommendation-24.1.1_c302dea322602da3ce39e741e08a709436341164.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="48352e0a999d38e097c842672f8535d41003f1dc">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v14-24.1.1_9d83b6ac392c290bde7e491c1de1e6e46275597e.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/glide-3.6.1_9e7473c6c6fb60d837bca34832f1e5aaf17d2770.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ed574a0ae251c27bc4e3ce5a7e06733183636fff">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-leanback-v17-24.1.1_a42cdf23e11a2277bf5ddd9f900de55714ea6266.jar" />
+    </item>
+    <item
+        jar="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_6ce14b75ee2ea283de1414dea8defb30fed17785.jar" />
+    </item>
+
+</items>

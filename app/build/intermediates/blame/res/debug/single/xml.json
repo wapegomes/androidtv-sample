@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/xml/settings.xml"
+    }
+]

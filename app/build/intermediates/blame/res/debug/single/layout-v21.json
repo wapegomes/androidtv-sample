@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout-v21/preference_material.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.1.1/res/layout-v21/preference_material.xml"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout-v21/leanback_settings_fragment.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-leanback-v17/24.1.1/res/layout-v21/leanback_settings_fragment.xml"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout-v21/preference_information_material.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.1.1/res/layout-v21/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout-v21/preference_category_material.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-v14/24.1.1/res/layout-v21/preference_category_material.xml"
+    }
+]
