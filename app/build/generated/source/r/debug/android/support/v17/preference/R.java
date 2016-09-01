@@ -1548,17 +1548,17 @@ public final class R {
 		public static final int lb_date_separator = 0x7f090015;
 		public static final int lb_guidedaction_continue_title = 0x7f090016;
 		public static final int lb_guidedaction_finish_title = 0x7f090017;
-		public static final int lb_guidedactions_item_disabled_chevron_alpha = 0x7f090061;
-		public static final int lb_guidedactions_item_disabled_description_text_alpha = 0x7f090062;
-		public static final int lb_guidedactions_item_disabled_text_alpha = 0x7f090063;
-		public static final int lb_guidedactions_item_enabled_chevron_alpha = 0x7f090064;
-		public static final int lb_guidedactions_item_unselected_description_text_alpha = 0x7f090065;
-		public static final int lb_guidedactions_item_unselected_text_alpha = 0x7f090066;
-		public static final int lb_guidedactions_width_weight = 0x7f090067;
-		public static final int lb_guidedactions_width_weight_two_panels = 0x7f090068;
-		public static final int lb_guidedstep_height_weight = 0x7f090069;
-		public static final int lb_guidedstep_height_weight_translucent = 0x7f09006a;
-		public static final int lb_guidedstep_keyline = 0x7f09006b;
+		public static final int lb_guidedactions_item_disabled_chevron_alpha = 0x7f09005f;
+		public static final int lb_guidedactions_item_disabled_description_text_alpha = 0x7f090060;
+		public static final int lb_guidedactions_item_disabled_text_alpha = 0x7f090061;
+		public static final int lb_guidedactions_item_enabled_chevron_alpha = 0x7f090062;
+		public static final int lb_guidedactions_item_unselected_description_text_alpha = 0x7f090063;
+		public static final int lb_guidedactions_item_unselected_text_alpha = 0x7f090064;
+		public static final int lb_guidedactions_width_weight = 0x7f090065;
+		public static final int lb_guidedactions_width_weight_two_panels = 0x7f090066;
+		public static final int lb_guidedstep_height_weight = 0x7f090067;
+		public static final int lb_guidedstep_height_weight_translucent = 0x7f090068;
+		public static final int lb_guidedstep_keyline = 0x7f090069;
 		public static final int lb_navigation_menu_contentDescription = 0x7f090018;
 		public static final int lb_onboarding_accessibility_next = 0x7f090019;
 		public static final int lb_onboarding_get_started = 0x7f09001a;
@@ -1592,8 +1592,8 @@ public final class R {
 		public static final int lb_time_separator = 0x7f090036;
 		public static final int orb_search_action = 0x7f090037;
 		public static final int status_bar_notification_info_overflow = 0x7f090038;
-		public static final int v7_preference_off = 0x7f090092;
-		public static final int v7_preference_on = 0x7f090093;
+		public static final int v7_preference_off = 0x7f09008c;
+		public static final int v7_preference_on = 0x7f09008d;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f0b0091;
