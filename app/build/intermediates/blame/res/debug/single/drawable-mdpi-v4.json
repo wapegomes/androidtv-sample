@@ -64,24 +64,24 @@
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/lb_ic_search_mic_out.png",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/drawable-mdpi-v4/lb_ic_search_mic_out.png"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",

@@ -16,24 +16,24 @@
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/activity_playback.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/layout/activity_playback.xml"
-    },
-    {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_headers_fragment.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_headers_fragment.xml"
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/activity_playback.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/layout/activity_playback.xml"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/leanback_preference_information.xml",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/preference-leanback-v17/24.1.1/res/layout/leanback_preference_information.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_headers_fragment.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_headers_fragment.xml"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_guidedstep_background.xml",
@@ -48,16 +48,16 @@
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/guidedstep_second_guidance.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/layout/guidedstep_second_guidance.xml"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_guidedbuttonactions.xml",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_guidedbuttonactions.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/guidedstep_second_guidance.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/layout/guidedstep_second_guidance.xml"
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_guidedactions_item.xml",
@@ -84,12 +84,12 @@
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_details_fragment.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_speech_orb.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_speech_orb.xml"
-    },
-    {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_playback_controls.xml",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_playback_controls.xml"
+    },
+    {
+        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_speech_orb.xml",
+        "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_speech_orb.xml"
     },
     {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/lb_list_row_hovercard.xml",

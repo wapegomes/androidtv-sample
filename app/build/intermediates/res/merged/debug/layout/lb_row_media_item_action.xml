@@ -15,6 +15,14 @@
      limitations under the License.
 -->
 
-<ImageView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/actionIcon"
-    android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center_vertical"
-    android:paddingStart="16dp" android:paddingEnd="16dp" android:focusable="true" />
+<ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:lb="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/actionIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:focusable="true"
+        />
