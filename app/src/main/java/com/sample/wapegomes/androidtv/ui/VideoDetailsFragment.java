@@ -77,7 +77,6 @@ public class VideoDetailsFragment extends DetailsFragment
     private static final int NO_NOTIFICATION = -1;
     private static final int ACTION_WATCH_TRAILER = 1;
     private static final int ACTION_RENT = 2;
-    private static final int ACTION_BUY = 3;
 
     // ID for loader that loads related videos.
     private static final int RELATED_VIDEO_LOADER = 1;
