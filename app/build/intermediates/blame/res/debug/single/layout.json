@@ -4,10 +4,6 @@
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.1.1/res/layout/lb_rows_fragment.xml"
     },
     {
-        "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/activity_mobile_welcome.xml",
-        "source": "/Users/wgomes/pessoal/androidtv-sample/app/src/main/res/layout/activity_mobile_welcome.xml"
-    },
-    {
         "merged": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/wgomes/pessoal/androidtv-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_screen_simple.xml"
     },

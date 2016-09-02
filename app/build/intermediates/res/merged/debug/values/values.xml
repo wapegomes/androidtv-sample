@@ -684,18 +684,8 @@
     <string name="lb_search_bar_hint_with_title">Search <ns1:g id="search context">%1$s</ns1:g></string>
     <string name="lb_search_bar_hint_with_title_speech">Speak to search <ns1:g id="search context">%1$s</ns1:g></string>
     <string name="lb_time_separator">:</string>
-    <string name="mobile_welcome_description">Welcome to the Leanback Sample app! Try opening this on an Android TV for a great leanback experience.</string>
-    <string name="mobile_welcome_title">Welcome to the Leanback Sample</string>
     <string name="more_samples">More Samples</string>
     <string name="no_search_results">No search results found for \'%1$s\'</string>
-    <string name="onboarding_description_design">The Leanback sample shows how to quickly design apps designed for a 10-foot user interface</string>
-    <string name="onboarding_description_project">Are you looking for guidance? This sample is available on GitHub so you can see how we built this.</string>
-    <string name="onboarding_description_simple">You can include the Leanback library through gradle in your own apps</string>
-    <string name="onboarding_description_welcome">This is the Onboarding Fragment, which runs when the user first opens the app</string>
-    <string name="onboarding_title_design">Designed for Android TV</string>
-    <string name="onboarding_title_project">Check out the Sample Project</string>
-    <string name="onboarding_title_simple">Simple to include</string>
-    <string name="onboarding_title_welcome">Welcome to the Leanback Sample</string>
     <string name="orb_search_action">Search Action</string>
     <string name="personal_settings">Personal Settings</string>
     <string name="popular_header">Popular Videos</string>
